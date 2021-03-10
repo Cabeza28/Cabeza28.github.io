@@ -1,0 +1,35 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	background-color:salmon;
+	margin:0px;
+}
+#Encabezado{
+	background-color:gray;
+	color:salmon;
+	text-align:center;
+	text-shadow:1px 1px 1px black;
+}
+#Links{
+	text-align:center;
+	height:40px;
+}
+nav a{
+	text-decoration:none;
+	color:black;
+	border:3px solid black;
+	background:yellow;
+	padding:15px;
+}
+#Menu{
+	width:100%;
+	background-color:lime;
+	height:200px;
+}
+#Pie{
+	background-color:black;
+	text-align:right;
+	color:salmon;
+	text-shadow:1px 1px 1px gray;
+}
